@@ -1,0 +1,21 @@
+#body{
+    background-color: #00b3e6;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-size:contain; 
+    text-align: center;
+}
+#items{
+    width: 200px;
+  margin: auto;
+  font-family: Helvetica Neue;
+  background: white;
+  padding: 30px;
+}
+#myForm{
+    background-color: red;
+    padding: 20px;
+     width: 500px;
+     margin: auto;
+}
